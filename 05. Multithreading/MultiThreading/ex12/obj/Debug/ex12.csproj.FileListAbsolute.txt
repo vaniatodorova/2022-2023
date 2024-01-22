@@ -1,0 +1,6 @@
+F:\11a\Repos\05. MultiThreading\MultiThreading\ex12\bin\Debug\ex12.exe.config
+F:\11a\Repos\05. MultiThreading\MultiThreading\ex12\bin\Debug\ex12.exe
+F:\11a\Repos\05. MultiThreading\MultiThreading\ex12\bin\Debug\ex12.pdb
+F:\11a\Repos\05. MultiThreading\MultiThreading\ex12\obj\Debug\ex12.csproj.CoreCompileInputs.cache
+F:\11a\Repos\05. MultiThreading\MultiThreading\ex12\obj\Debug\ex12.exe
+F:\11a\Repos\05. MultiThreading\MultiThreading\ex12\obj\Debug\ex12.pdb

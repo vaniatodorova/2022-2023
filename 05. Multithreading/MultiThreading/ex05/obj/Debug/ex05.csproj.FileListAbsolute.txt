@@ -1,0 +1,6 @@
+F:\11a\05.MultiThreading\MultiThreading\ex05\bin\Debug\ex05.exe.config
+F:\11a\05.MultiThreading\MultiThreading\ex05\bin\Debug\ex05.exe
+F:\11a\05.MultiThreading\MultiThreading\ex05\bin\Debug\ex05.pdb
+F:\11a\05.MultiThreading\MultiThreading\ex05\obj\Debug\ex05.csproj.CoreCompileInputs.cache
+F:\11a\05.MultiThreading\MultiThreading\ex05\obj\Debug\ex05.exe
+F:\11a\05.MultiThreading\MultiThreading\ex05\obj\Debug\ex05.pdb

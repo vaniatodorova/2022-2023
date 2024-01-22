@@ -1,0 +1,6 @@
+D:\.Vania11a#4\05.MultiThreading\MultiThreading\ex18\bin\Debug\ex18.exe.config
+D:\.Vania11a#4\05.MultiThreading\MultiThreading\ex18\bin\Debug\ex18.exe
+D:\.Vania11a#4\05.MultiThreading\MultiThreading\ex18\bin\Debug\ex18.pdb
+D:\.Vania11a#4\05.MultiThreading\MultiThreading\ex18\obj\Debug\ex18.csproj.CoreCompileInputs.cache
+D:\.Vania11a#4\05.MultiThreading\MultiThreading\ex18\obj\Debug\ex18.exe
+D:\.Vania11a#4\05.MultiThreading\MultiThreading\ex18\obj\Debug\ex18.pdb

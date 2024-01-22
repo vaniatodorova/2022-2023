@@ -1,0 +1,6 @@
+D:\.Vania11a#4\05.MultiThreading\MultiThreading\ex16\bin\Debug\ex16.exe.config
+D:\.Vania11a#4\05.MultiThreading\MultiThreading\ex16\bin\Debug\ex16.exe
+D:\.Vania11a#4\05.MultiThreading\MultiThreading\ex16\bin\Debug\ex16.pdb
+D:\.Vania11a#4\05.MultiThreading\MultiThreading\ex16\obj\Debug\ex16.csproj.CoreCompileInputs.cache
+D:\.Vania11a#4\05.MultiThreading\MultiThreading\ex16\obj\Debug\ex16.exe
+D:\.Vania11a#4\05.MultiThreading\MultiThreading\ex16\obj\Debug\ex16.pdb
