@@ -1,0 +1,6 @@
+G:\.Vania11a#4\02.OOP\OOP\Sqrt\bin\Release\Sqrt.exe.config
+G:\.Vania11a#4\02.OOP\OOP\Sqrt\bin\Release\Sqrt.exe
+G:\.Vania11a#4\02.OOP\OOP\Sqrt\bin\Release\Sqrt.pdb
+G:\.Vania11a#4\02.OOP\OOP\Sqrt\obj\Release\Sqrt.csproj.CoreCompileInputs.cache
+G:\.Vania11a#4\02.OOP\OOP\Sqrt\obj\Release\Sqrt.exe
+G:\.Vania11a#4\02.OOP\OOP\Sqrt\obj\Release\Sqrt.pdb

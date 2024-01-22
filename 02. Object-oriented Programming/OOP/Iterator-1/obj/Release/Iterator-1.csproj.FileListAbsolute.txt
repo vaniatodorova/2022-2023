@@ -1,0 +1,7 @@
+G:\.Vania11a#4\02.OOP\OOP\Iterator-1\bin\Release\Iterator-1.exe.config
+G:\.Vania11a#4\02.OOP\OOP\Iterator-1\bin\Release\Iterator-1.exe
+G:\.Vania11a#4\02.OOP\OOP\Iterator-1\bin\Release\Iterator-1.pdb
+G:\.Vania11a#4\02.OOP\OOP\Iterator-1\obj\Release\Iterator-1.csprojAssemblyReference.cache
+G:\.Vania11a#4\02.OOP\OOP\Iterator-1\obj\Release\Iterator-1.csproj.CoreCompileInputs.cache
+G:\.Vania11a#4\02.OOP\OOP\Iterator-1\obj\Release\Iterator-1.exe
+G:\.Vania11a#4\02.OOP\OOP\Iterator-1\obj\Release\Iterator-1.pdb

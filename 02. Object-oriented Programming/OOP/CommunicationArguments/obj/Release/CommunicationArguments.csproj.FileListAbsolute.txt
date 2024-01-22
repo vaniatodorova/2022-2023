@@ -1,0 +1,7 @@
+D:\.Vania11a#4\02.OOP\OOP\CommunicationArguments\bin\Release\CommunicationArguments.exe.config
+D:\.Vania11a#4\02.OOP\OOP\CommunicationArguments\bin\Release\CommunicationArguments.exe
+D:\.Vania11a#4\02.OOP\OOP\CommunicationArguments\bin\Release\CommunicationArguments.pdb
+D:\.Vania11a#4\02.OOP\OOP\CommunicationArguments\obj\Release\CommunicationArguments.csprojAssemblyReference.cache
+D:\.Vania11a#4\02.OOP\OOP\CommunicationArguments\obj\Release\CommunicationArguments.csproj.CoreCompileInputs.cache
+D:\.Vania11a#4\02.OOP\OOP\CommunicationArguments\obj\Release\CommunicationArguments.exe
+D:\.Vania11a#4\02.OOP\OOP\CommunicationArguments\obj\Release\CommunicationArguments.pdb

@@ -1,0 +1,6 @@
+F:\11a\Repos\02. OOP\OOP\ex19\bin\Release\ex19.exe.config
+F:\11a\Repos\02. OOP\OOP\ex19\bin\Release\ex19.exe
+F:\11a\Repos\02. OOP\OOP\ex19\bin\Release\ex19.pdb
+F:\11a\Repos\02. OOP\OOP\ex19\obj\Release\ex19.csproj.CoreCompileInputs.cache
+F:\11a\Repos\02. OOP\OOP\ex19\obj\Release\ex19.exe
+F:\11a\Repos\02. OOP\OOP\ex19\obj\Release\ex19.pdb

@@ -1,0 +1,7 @@
+F:\11a\Repos\02. OOP\OOP\ex14\bin\Release\ex14.exe.config
+F:\11a\Repos\02. OOP\OOP\ex14\bin\Release\ex14.exe
+F:\11a\Repos\02. OOP\OOP\ex14\bin\Release\ex14.pdb
+F:\11a\Repos\02. OOP\OOP\ex14\obj\Release\ex14.csproj.CoreCompileInputs.cache
+F:\11a\Repos\02. OOP\OOP\ex14\obj\Release\ex14.exe
+F:\11a\Repos\02. OOP\OOP\ex14\obj\Release\ex14.pdb
+F:\11a\Repos\02. OOP\OOP\ex14\obj\Release\ex14.csprojAssemblyReference.cache

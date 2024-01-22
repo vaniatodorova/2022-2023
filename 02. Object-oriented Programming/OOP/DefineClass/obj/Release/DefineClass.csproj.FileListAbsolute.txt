@@ -1,0 +1,7 @@
+G:\.Vania11a#4\02.OOP\OOP\DefineClass\bin\Release\DefineClass.exe.config
+G:\.Vania11a#4\02.OOP\OOP\DefineClass\bin\Release\DefineClass.exe
+G:\.Vania11a#4\02.OOP\OOP\DefineClass\bin\Release\DefineClass.pdb
+G:\.Vania11a#4\02.OOP\OOP\DefineClass\obj\Release\DefineClass.csprojAssemblyReference.cache
+G:\.Vania11a#4\02.OOP\OOP\DefineClass\obj\Release\DefineClass.csproj.CoreCompileInputs.cache
+G:\.Vania11a#4\02.OOP\OOP\DefineClass\obj\Release\DefineClass.exe
+G:\.Vania11a#4\02.OOP\OOP\DefineClass\obj\Release\DefineClass.pdb

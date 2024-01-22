@@ -1,0 +1,7 @@
+G:\.Vania11a#4\02.OOP\OOP\Reflection1\bin\Release\Reflection1.exe.config
+G:\.Vania11a#4\02.OOP\OOP\Reflection1\bin\Release\Reflection1.exe
+G:\.Vania11a#4\02.OOP\OOP\Reflection1\bin\Release\Reflection1.pdb
+G:\.Vania11a#4\02.OOP\OOP\Reflection1\obj\Release\Reflection1.csprojAssemblyReference.cache
+G:\.Vania11a#4\02.OOP\OOP\Reflection1\obj\Release\Reflection1.csproj.CoreCompileInputs.cache
+G:\.Vania11a#4\02.OOP\OOP\Reflection1\obj\Release\Reflection1.exe
+G:\.Vania11a#4\02.OOP\OOP\Reflection1\obj\Release\Reflection1.pdb

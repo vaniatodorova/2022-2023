@@ -1,0 +1,7 @@
+F:\11a\02.OOP\OOP\AbstractionEx02\bin\Debug\AbstractionEx02.exe.config
+F:\11a\02.OOP\OOP\AbstractionEx02\bin\Debug\AbstractionEx02.exe
+F:\11a\02.OOP\OOP\AbstractionEx02\bin\Debug\AbstractionEx02.pdb
+F:\11a\02.OOP\OOP\AbstractionEx02\obj\Debug\AbstractionEx02.csprojAssemblyReference.cache
+F:\11a\02.OOP\OOP\AbstractionEx02\obj\Debug\AbstractionEx02.csproj.CoreCompileInputs.cache
+F:\11a\02.OOP\OOP\AbstractionEx02\obj\Debug\AbstractionEx02.exe
+F:\11a\02.OOP\OOP\AbstractionEx02\obj\Debug\AbstractionEx02.pdb

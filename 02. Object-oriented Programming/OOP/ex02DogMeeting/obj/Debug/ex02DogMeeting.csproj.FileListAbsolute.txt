@@ -1,0 +1,7 @@
+F:\11a\OOP\ex02DogMeeting\bin\Debug\ex02DogMeeting.exe.config
+F:\11a\OOP\ex02DogMeeting\bin\Debug\ex02DogMeeting.exe
+F:\11a\OOP\ex02DogMeeting\bin\Debug\ex02DogMeeting.pdb
+F:\11a\OOP\ex02DogMeeting\obj\Debug\ex02DogMeeting.csprojAssemblyReference.cache
+F:\11a\OOP\ex02DogMeeting\obj\Debug\ex02DogMeeting.csproj.CoreCompileInputs.cache
+F:\11a\OOP\ex02DogMeeting\obj\Debug\ex02DogMeeting.exe
+F:\11a\OOP\ex02DogMeeting\obj\Debug\ex02DogMeeting.pdb

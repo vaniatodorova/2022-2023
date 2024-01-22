@@ -1,0 +1,7 @@
+D:\.Vania11a#4\02.OOP\OOP\Exception1\bin\Release\Exception1.exe.config
+D:\.Vania11a#4\02.OOP\OOP\Exception1\bin\Release\Exception1.exe
+D:\.Vania11a#4\02.OOP\OOP\Exception1\bin\Release\Exception1.pdb
+D:\.Vania11a#4\02.OOP\OOP\Exception1\obj\Release\Exception1.csprojAssemblyReference.cache
+D:\.Vania11a#4\02.OOP\OOP\Exception1\obj\Release\Exception1.csproj.CoreCompileInputs.cache
+D:\.Vania11a#4\02.OOP\OOP\Exception1\obj\Release\Exception1.exe
+D:\.Vania11a#4\02.OOP\OOP\Exception1\obj\Release\Exception1.pdb
