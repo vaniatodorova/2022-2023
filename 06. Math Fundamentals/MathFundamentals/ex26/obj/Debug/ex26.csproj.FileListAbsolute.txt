@@ -1,0 +1,7 @@
+D:\.Vania11a#4\06.MathFundamentals\MathFundamentals\ex26\bin\Debug\ex26.exe.config
+D:\.Vania11a#4\06.MathFundamentals\MathFundamentals\ex26\bin\Debug\ex26.exe
+D:\.Vania11a#4\06.MathFundamentals\MathFundamentals\ex26\bin\Debug\ex26.pdb
+D:\.Vania11a#4\06.MathFundamentals\MathFundamentals\ex26\obj\Debug\ex26.csprojAssemblyReference.cache
+D:\.Vania11a#4\06.MathFundamentals\MathFundamentals\ex26\obj\Debug\ex26.csproj.CoreCompileInputs.cache
+D:\.Vania11a#4\06.MathFundamentals\MathFundamentals\ex26\obj\Debug\ex26.exe
+D:\.Vania11a#4\06.MathFundamentals\MathFundamentals\ex26\obj\Debug\ex26.pdb

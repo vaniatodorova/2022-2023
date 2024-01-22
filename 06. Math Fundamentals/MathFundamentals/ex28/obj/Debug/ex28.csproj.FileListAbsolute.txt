@@ -1,0 +1,11 @@
+D:\.Vania11a#4\06.MathFundamentals\MathFundamentals\ex28\bin\Debug\ex28.exe.config
+D:\.Vania11a#4\06.MathFundamentals\MathFundamentals\ex28\bin\Debug\ex28.exe
+D:\.Vania11a#4\06.MathFundamentals\MathFundamentals\ex28\bin\Debug\ex28.pdb
+D:\.Vania11a#4\06.MathFundamentals\MathFundamentals\ex28\bin\Debug\MathNet.Numerics.dll
+D:\.Vania11a#4\06.MathFundamentals\MathFundamentals\ex28\bin\Debug\System.ValueTuple.dll
+D:\.Vania11a#4\06.MathFundamentals\MathFundamentals\ex28\bin\Debug\MathNet.Numerics.xml
+D:\.Vania11a#4\06.MathFundamentals\MathFundamentals\ex28\bin\Debug\System.ValueTuple.xml
+D:\.Vania11a#4\06.MathFundamentals\MathFundamentals\ex28\obj\Debug\ex28.csproj.CoreCompileInputs.cache
+D:\.Vania11a#4\06.MathFundamentals\MathFundamentals\ex28\obj\Debug\ex28.csproj.CopyComplete
+D:\.Vania11a#4\06.MathFundamentals\MathFundamentals\ex28\obj\Debug\ex28.exe
+D:\.Vania11a#4\06.MathFundamentals\MathFundamentals\ex28\obj\Debug\ex28.pdb

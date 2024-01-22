@@ -1,0 +1,7 @@
+F:\11a\Repos\06.MathFundamentals\MathFundamentals\ex16\bin\Debug\ex16.exe.config
+F:\11a\Repos\06.MathFundamentals\MathFundamentals\ex16\bin\Debug\ex16.exe
+F:\11a\Repos\06.MathFundamentals\MathFundamentals\ex16\bin\Debug\ex16.pdb
+F:\11a\Repos\06.MathFundamentals\MathFundamentals\ex16\obj\Debug\ex16.csprojAssemblyReference.cache
+F:\11a\Repos\06.MathFundamentals\MathFundamentals\ex16\obj\Debug\ex16.csproj.CoreCompileInputs.cache
+F:\11a\Repos\06.MathFundamentals\MathFundamentals\ex16\obj\Debug\ex16.exe
+F:\11a\Repos\06.MathFundamentals\MathFundamentals\ex16\obj\Debug\ex16.pdb
